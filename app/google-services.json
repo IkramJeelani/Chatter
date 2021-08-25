@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42515443925",
+    "project_id": "androidchatsystem-8fd12",
+    "storage_bucket": "androidchatsystem-8fd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42515443925:android:b8f0ad29a5ef15fd39725c",
+        "android_client_info": {
+          "package_name": "com.example.androidchatsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42515443925-3467ajioch6bj676kjhjol86h6ecma1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlYzUN2iSxkglemGyV-J_X3Vw7w31vX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42515443925-3467ajioch6bj676kjhjol86h6ecma1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
